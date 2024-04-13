@@ -1,0 +1,22 @@
+.myForm {
+    /* margin: 20px; */
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    
+}
+
+.dropdown {
+    width: 380px;
+    /* margin-left: 180px; */
+    /* padding: 8px; */
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.dip {
+    margin-left: -10px;
+}

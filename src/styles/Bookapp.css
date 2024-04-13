@@ -1,0 +1,130 @@
+.popup {
+    position: fixed;
+    z-index: 999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.popup-inner {
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+    width: 40%;
+}
+
+
+
+.popup-inner input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+
+.popup-inner button[type="submit"],
+.popup-inner button[type="button"] {
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: inherit;
+    cursor: pointer;
+    width: 100%;
+    height: auto;
+    padding: 0.65rem 1.25rem;
+    border: none;
+    outline: none;
+    border-radius: 2rem;
+    color: white;
+    background: #202124;
+    text-transform: capitalize;
+    text-rendering: optimizeLegibility;
+    margin-bottom: 20px;
+}
+
+.popup-inner button[type="submit"]:hover,
+.popup-inner button[type="button"]:hover {
+    background-color: #45a049;
+}
+
+.popup-inner button[type="submit"] {
+    margin-top: 10px;
+}
+
+.button {
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 300;
+    /* line-height: inherit; */
+    cursor: pointer;
+    width: 20%;
+    height: auto;
+    padding: 0.65rem 1.25rem;
+    border: none;
+    outline: none;
+    border-radius: 2rem;
+    color: white;
+    background: #55BA53;
+    text-transform: capitalize;
+    text-rendering: optimizeLegibility;
+    margin-bottom: 20px;
+    justify-content: left;
+}
+
+
+.input-b {
+    /* display: none; */
+    position: absolute;
+    height: 25vh;
+    padding-left: 0;
+    /* min-width: 2px; */
+    width: 250px;
+    /* z-index: 99; */
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    list-style: none;
+    font-size: 20px;
+    transition: 1s ease;
+    /* background-color: gray; */
+    /* border-radius: 50px 10px 50px 5px; */
+
+
+}
+
+.input-boxxs-dep {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.input-boxx-dep {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    
+}
+
+.dept-box {
+    width: 100%;
+}
+
+
+@media screen and (max-width:769px) {
+    .popup-inner {
+        width: 80%;
+        margin-top: 40px;
+    }
+}

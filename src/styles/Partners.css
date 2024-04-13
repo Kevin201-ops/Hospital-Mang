@@ -1,0 +1,34 @@
+.header {
+    margin: 10px;
+
+}
+
+.header h2 {
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.call {
+    margin: 50px;
+    /* margin-left: 400px; */
+}
+
+.logos {
+    display: flex;
+    margin-left: 90px;
+    gap: 5rem;
+    
+}
+
+
+
+@media screen and (max-width:769px) {
+    .call {
+        margin: 20px;
+    }
+
+    .logos {
+        margin: 0px;
+        gap: 2rem;
+    }
+}
