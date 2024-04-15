@@ -10,7 +10,7 @@ function Gyn() {
             <Hnav></Hnav>
             <Carousel fade className='yie'>
                 <Carousel.Item>
-                    <img src='/Gynaecologist/Gyn.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Gynaecologist/Gyn.jpg'  width={"100%"} alt="error" className='gae' />
                     <Carousel.Caption>
                         <div className='Gyn'>
                             <h1>
@@ -20,7 +20,7 @@ function Gyn() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Gynaecologist/pr2.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Gynaecologist/pr2.jpg' width={"100%"} alt="error" className='gna' />
                     <Carousel.Caption>
                         <div className='Gyn'>
                             <h1>
@@ -30,7 +30,7 @@ function Gyn() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Gynaecologist/pr3.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Gynaecologist/pr3.jpg' width={"100%"} alt="error" className='gle' />
                     <Carousel.Caption>
                         <div className='Gyn'>
                             <h1>

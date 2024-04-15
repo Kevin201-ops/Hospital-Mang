@@ -61,15 +61,16 @@
 
 
 
-.Pc h1 {
+.wwa h1 {
     color: darkslategray !important;
     font-size: 60px;
     /* margin-left: 20px; */
     font-family: 'Times New Roman', Times, serif;
-    font-family: cursive;
-
+    /* font-family: cursive; */
 
 }
+
+
 
 .kont {
     height: 100px;
@@ -89,7 +90,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.kontr {
+.kontro {
     /* align-items: center; */
     /* align-content: center; */
     padding: 2em 2em 2em 2em;
@@ -101,7 +102,7 @@
 
 }
 
-.contesk p {
+.conteso p {
     color: #333333;
     font-family: serif;
     /* font-size: 18px; */
@@ -113,10 +114,10 @@
 
 }
 
-.contesk {
+.conteso {
     /* height: 100px; */
     /* width: 600px; */
-    padding: 0px;
+    padding: 10px;
     margin-left: 850px;
 }
 
@@ -159,10 +160,25 @@
 .konkq div img {
     width: 90%;
     margin-top: 230px;
+    margin-left: 20px;
+    padding: 10px;
 }
 
 .pit {
-    margin-top: 170px;
+    margin-top: 130px;
+
+}
+
+.rik {
+    height: 655px;
+}
+
+.uil {
+    height: 655px;
+}
+
+.yil {
+    height: 655px;
 }
 
 @media screen and (max-width:769px) {
@@ -170,18 +186,31 @@
         display: block;
         width: 99%;
         /* height: 90px; */
-        margin-top: 150px;
+        margin-top: 80px;
         margin-left: 0.7px;
         margin-right: 0.7px;
 
+    }
+
+    .rik {
+        height: 400px;
+    }
+
+    .uil {
+        height: 400px;
+    }
+
+    .yil {
+        height: 400px;
     }
 
     .kontq {
         display: block;
         width: 99%;
         margin-top: -30px;
-        margin-left: 0.7px;
-        margin-right: 0.7px;
+        padding: 10px;
+        margin-left: 35px;
+        /* margin-right: 0.7px; */
         /* margin-right: 0.5px; */
         /* margin-left: 0.5px; */
         /* align-items: center; */
@@ -192,26 +221,34 @@
         /* display: block; */
     }
 
-    .contesk p {
+    .conteso p {
         color: #333333;
         font-family: serif;
         font-size: 15px;
         /* font-weight: 500; */
         text-transform: capitalize;
         line-height: 1.1em;
-        padding: 1px;
-        /* margin-bottom: 28px; */
+        /* padding: 1px; */
+        margin-top: 350px;
 
     }
 
-    .contesk {
+    .conteso {
         /* height: 100px; */
         /* width: 600px; */
-        padding: 0px;
-        margin-left: 80px;
+        /* padding: 0px; */
+        margin-left: 50px;
     }
 
     .konkq {
-        margin-top: -200px;
+        margin-top: 50px;
+        display: block;
+    }
+
+    .konkq div img {
+        width: 90%;
+        margin-top: 10px;
+        margin-left: 30px;
+        padding: 10px;
     }
 }

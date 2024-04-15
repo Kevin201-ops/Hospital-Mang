@@ -52,7 +52,7 @@ function Home() {
         </div>
       </section>
 
-      <section id="sect" >
+       <section id="sect" >
         <div className="left-sidee">
           <div className="imageee">
             <img src="./1.jpg" alt="error"/>
@@ -108,16 +108,16 @@ function Home() {
 
           </div>
         </div>
-      </section>
+      </section> 
       <Video></Video>
-      <section id="blogg" className="py-3">
+       <section id="blogg" className="py-3">
         <div className="wrapper">
           <div className="header">
             <span></span>
             <h4>Our Services</h4>
           </div>
           <div className="blog-info">
-            {/* <h2>How Can We Help</h2> */}
+            
             <a href="/Sexten">All Services!</a>
           </div>
           <div className="blog-card">
@@ -175,7 +175,7 @@ function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </section> 
       <Mang></Mang>
       <Footer></Footer>
       <Workwith></Workwith>

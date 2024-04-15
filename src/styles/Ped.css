@@ -149,23 +149,48 @@
     margin-top: 150px;
 }
 
+.pid {
+    height: 655px;
+}
+
+.pad {
+    height: 655px;
+}
+
+.ped {
+    height: 655px;
+}
+
 @media screen and (max-width:769px) {
     .yip {
         display: block;
         width: 99%;
         /* height: 90px; */
-        margin-top: 150px;
+        margin-top: 90px;
         margin-left: 0.7px;
         margin-right: 0.7px;
 
+    }
+
+    .pid {
+        height: 400px;
+    }
+
+    .pad {
+        height: 400px;
+    }
+
+    .ped {
+        height: 400px;
     }
 
     .kontw {
         display: block;
         width: 99%;
         margin-top: -30px;
-        margin-left: 0.7px;
-        margin-right: 0.7px;
+        padding: 10px;
+        margin-left: 35px;
+        /* margin-right: 0.7px; */
         /* margin-right: 0.5px; */
         /* margin-left: 0.5px; */
         /* align-items: center; */
@@ -196,7 +221,14 @@
     }
 
     .konkw {
-        margin-top: -70px;
-        margin-bottom: 10px;
+        margin-top: 10px;
+        display: block;
+    }
+
+    .konkw div img {
+        width: 90%;
+        margin-top: 10px;
+        margin-left: 30px;
+        padding: 10px;
     }
 }

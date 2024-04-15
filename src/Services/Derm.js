@@ -10,7 +10,7 @@ function Derm() {
             <Hnav></Hnav>
             <Carousel fade className='yiy'>
                 <Carousel.Item>
-                    <img src='/Dermatology/Derm.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Dermatology/Derm.jpg'  width={"100%"} alt="error" className='der'/>
                     <Carousel.Caption>
                         <div className='Derm'>
                             <h1>
@@ -20,7 +20,7 @@ function Derm() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Dermatology/am.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Dermatology/am.jpg' width={"100%"} alt="error" className='dem' />
                     <Carousel.Caption>
                         <div className='Derm'>
                             <h1>
@@ -30,7 +30,7 @@ function Derm() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Dermatology/at.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Dermatology/at.jpg' width={"100%"} alt="error" className='dea' />
                     <Carousel.Caption>
                         <div className='Derm'>
                             <h1>

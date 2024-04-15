@@ -10,9 +10,9 @@ function Wwa() {
             <Hnav></Hnav>
             <Carousel fade className='pit'>
                 <Carousel.Item>
-                    <img src='./joke.jpg' height={"500px"} width={"100%"} alt='error' />
+                    <img src='./joke.jpg' width="100%" alt='error' className='rik' />
                     <Carousel.Caption>
-                        <div className='Dent'>
+                        <div className='wwa'>
                             <h1>
                                 ABOUT US
                             </h1>
@@ -20,9 +20,9 @@ function Wwa() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='./kol.jpg' height={"500px"} width={"100%"} alt='error' />
+                    <img src='./kol.jpg' width={"100%"} alt='error' className='uil' />
                     <Carousel.Caption>
-                        <div className='Dent'>
+                        <div className='wwa'>
                             <h1>
                                 ABOUT US
                             </h1>
@@ -30,9 +30,9 @@ function Wwa() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/mai.jpg' height={"500px"} width={"100%"} alt='error' />
+                    <img src='/joke.jpg' width={"100%"} alt='error' className='yil' />
                     <Carousel.Caption>
-                        <div className='Dent'>
+                        <div className='wwa'>
                             <h1>
                                 ABOUT US
                             </h1>
@@ -44,12 +44,12 @@ function Wwa() {
                 <div className='pic'>
                     <img src='/joke.jpg' alt='error' />
                 </div>
-                <div className='cont'>
-                    {/* <h1>Dentistry</h1> */}
+                <div className='www'>
+                    <h1>About Us</h1>
                 </div>
             </div>
-            <div className='kontr'>
-                <div className='contesk'>
+            <div className='kontro'>
+                <div className='conteso'>
                     <p>We are a group of four individuals behind this brilliant piece. We were tasked to build a hospital management system as part of our end of year activity.
                         This contains most neccessary informations about a hospital of which you can access from the comfort of your homes without even having to set foot there.
                         We hope you would like our little project

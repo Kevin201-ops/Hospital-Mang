@@ -65,7 +65,7 @@
     font-size: 60px;
     /* margin-left: 50px; */
     font-family: 'Times New Roman', Times, serif;
-    font-family: cursive;
+    /* font-family: cursive; */
 
 
 }
@@ -110,6 +110,7 @@
     margin-bottom: 20px;
     margin-top: -70px;
 }
+
 .konky div img {
     width: 90%;
     margin-top: 85px;
@@ -119,6 +120,7 @@
     width: 90%;
     margin-top: 230px;
 }
+
 .konty div img {
     width: 90%;
     margin-top: 50px;
@@ -141,23 +143,48 @@
     margin-top: 150px;
 }
 
+.der {
+    height: 655px;
+}
+
+.dem {
+    height: 655px;
+}
+
+.dea {
+    height: 655px;
+}
+
 @media screen and (max-width:769px) {
     .yiy {
         display: block;
         width: 99%;
         /* height: 90px; */
-        margin-top: 150px;
+        margin-top: 80px;
         margin-left: 0.7px;
         margin-right: 0.7px;
 
+    }
+
+    .der {
+        height: 400px;
+    }
+
+    .dem {
+        height: 400px;
+    }
+
+    .dea {
+        height: 400px;
     }
 
     .konty {
         display: block;
         width: 99%;
         margin-top: -30px;
-        margin-left: 0.7px;
-        margin-right: 0.7px;
+        padding: 10px;
+        margin-left: 35px;
+        /* margin-right: 0.7px; */
         /* margin-right: 0.5px; */
         /* margin-left: 0.5px; */
         /* align-items: center; */
@@ -188,6 +215,14 @@
     }
 
     .konky {
-        margin-top: -90px;
+        margin-top: 10px;
+        display: block;
+    }
+
+    .konky div img {
+        width: 90%;
+        margin-top: 10px;
+        margin-left: 30px;
+        padding: 10px;
     }
 }

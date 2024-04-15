@@ -1,5 +1,5 @@
 import "../styles/Hnav.css"
-import { Component, u } from "react"
+import { Component,  } from "react"
 import Formcomp from "./Formcomp";
 
 
@@ -53,7 +53,7 @@ class Hnav extends Component {
                         <nav>
 
                             <a href="#" className="brand-left">
-                                <img src="./logoo.png" alt="logo" width={"80%"} height={"60px"} />
+                             <img src="/logoo.png" alt="logo" width={"150px"} height={"50px"} />
                             </a>
 
                             <div>

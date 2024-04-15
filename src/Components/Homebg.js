@@ -9,7 +9,7 @@ function CarouselFadeExample() {
             
             <Carousel fade className='lok'>
                 <Carousel.Item >
-                    <img className="hot" src='/intro/intro1.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img className="hot" src='/intro/intro1.jpg' width={"100%"} alt="error" />
                     <Carousel.Caption>
                         <div className='beg1'>
                             <h1>
@@ -22,7 +22,7 @@ function CarouselFadeExample() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img className="hot" src='/intro/intro2.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img className="hot" src='/intro/intro2.jpg'  width={"100%"} alt="error" />
                     <Carousel.Caption>
                         <div className='beg2'>
                             <h1>
@@ -35,7 +35,7 @@ function CarouselFadeExample() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img className="hot" src='/intro/intro3.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img className="hot" src='/intro/intro3.jpg'  width={"100%"} alt="error" />
                     <Carousel.Caption>
                         <div className='beg3'>
                             <h1>

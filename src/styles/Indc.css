@@ -57,6 +57,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.hot{
+    height: 540px;
+    margin-top: -10px;
+}
+
 .beg1 h1 {
     color: #0e5620 !important;
     font-size: 70px;

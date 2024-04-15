@@ -84,7 +84,7 @@
     font-size: 60px;
     /* margin-left: 50px; */
     font-family: 'Times New Roman', Times, serif;
-    font-family: cursive;
+    /* font-family: cursive; */
 
 
 }
@@ -102,7 +102,7 @@
 
 .contesk p {
     color: black;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     /* font-size: 18px; */
     font-weight: 500;
     text-transform: capitalize;
@@ -130,6 +130,7 @@
     margin-top: -70px;
 
 }
+
 .konkp div img {
     width: 90%;
     margin-top: 95px;
@@ -157,24 +158,49 @@
     margin-top: 150px;
 }
 
+.den {
+    height: 655px;
+}
+
+.det {
+    height: 655px;
+}
+
+.dit {
+    height: 655px;
+}
+
 
 @media screen and (max-width:769px) {
     .uyp {
         display: block;
         width: 99%;
         /* height: 90px; */
-        margin-top: 150px;
+        margin-top: 80px;
         margin-left: 0.7px;
         margin-right: 0.7px;
 
+    }
+
+    .dit {
+        height: 400px;
+    }
+
+    .den {
+        height: 400px;
+    }
+
+    .det {
+        height: 400px;
     }
 
     .kontp {
         display: block;
         width: 99%;
         margin-top: -30px;
-        margin-left: 0.7px;
-        margin-right: 0.7px;
+        padding: 10px;
+        margin-left: 35px;
+        /* margin-right: 0.7px; */
         /* margin-right: 0.5px; */
         /* margin-left: 0.5px; */
         /* align-items: center; */
@@ -205,6 +231,18 @@
     }
 
     .konkp {
-        margin-top: -90px;
+        margin-top: 10px;
+        display: block;
+    }
+
+    .konkp div img {
+        width: 90%;
+        margin-top: 10px;
+        margin-left: 30px;
+        padding: 10px;
+    }
+
+    .cont{
+        margin-left: -50px;
     }
 }

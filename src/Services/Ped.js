@@ -10,7 +10,7 @@ function Ped() {
             <Hnav></Hnav>
             <Carousel fade className='yip'>
                 <Carousel.Item>
-                    <img src='/Paediatrics/Ped.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Paediatrics/Ped.jpg'  width={"100%"} alt="error" className='pid'/>
                     <Carousel.Caption>
                         <div className='Ped'>
                             <h1>
@@ -20,7 +20,7 @@ function Ped() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Paediatrics/ped1.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Paediatrics/ped1.jpg' width={"100%"} alt="error" className='pad' />
                     <Carousel.Caption>
                         <div className='Ped'>
                             <h1>
@@ -30,7 +30,7 @@ function Ped() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Paediatrics/ped2.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Paediatrics/ped2.jpg' width={"100%"} alt="error" className='ped' />
                     <Carousel.Caption>
                         <div className='Ped'>
                             <h1>

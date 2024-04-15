@@ -1,8 +1,11 @@
+  .koke {
+    margin-left: 220px;
+  }
 
-
-@media screen and (max-width:769px) {
-    .koke {
-        width: 50%;
-        height: 90%;
-    }
-}
+  @media screen and (max-width:769px) {
+      .koke {
+          width: 400px;
+          height: 230px;
+          margin-left: 70px;
+      }
+  }

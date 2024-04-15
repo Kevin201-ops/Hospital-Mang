@@ -10,7 +10,7 @@ function Covid() {
             <Hnav></Hnav>
             <Carousel fade className='vit'>
                 <Carousel.Item>
-                    <img src='/Covid-19/Cov.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Covid-19/Cov.jpg'  width={"100%"} alt="error" className='cov'/>
                     <Carousel.Caption>
                         <div className='Covid'>
                             <h1>
@@ -20,7 +20,7 @@ function Covid() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Covid-19/co1.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Covid-19/co1.jpg' width={"100%"} alt="error" className='cod'/>
                     <Carousel.Caption>
                         <div className='Covid'>
                             <h1>
@@ -30,7 +30,7 @@ function Covid() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Covid-19/cov4.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Covid-19/cov4.jpg' width={"100%"} alt="error" className='coi' />
                     <Carousel.Caption>
                         <div className='Covid'>
                             <h1>

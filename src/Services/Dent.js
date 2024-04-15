@@ -10,7 +10,7 @@ function Dent() {
             <Hnav></Hnav>
             <Carousel fade className='uyp'>
                 <Carousel.Item>
-                    <img src='/Dentistry/Dent.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Dentistry/Dent.jpg'  width={"100%"} alt="error" className='det' />
                     <Carousel.Caption>
                         <div className='Dent'>
                             <h1>
@@ -20,7 +20,7 @@ function Dent() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Dentistry/pae1.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Dentistry/pae1.jpg' width={"100%"} alt="error" className='dit' />
                     <Carousel.Caption>
                         <div className='Dent'>
                             <h1>
@@ -30,7 +30,7 @@ function Dent() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Dentistry/pae4.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Dentistry/pae4.jpg' width={"100%"} alt="error" className='den' />
                     <Carousel.Caption>
                         <div className='Dent'>
                             <h1>

@@ -10,7 +10,7 @@ function Pc() {
             <Hnav></Hnav>
             <Carousel fade className='lil'>
                 <Carousel.Item>
-                    <img src='./Primary Care/mai.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='./Primary Care/mai.jpg'  width={"100%"} alt="error" className='pli'/>
                     <Carousel.Caption>
                         <div className='Pc'>
                             <h1>
@@ -20,7 +20,7 @@ function Pc() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Primary Care/oli.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Primary Care/oli.jpg'  width={"100%"} alt="error" className='pri'/>
                     <Carousel.Caption>
                         <div className='Pc'>
                             <h1>
@@ -30,7 +30,7 @@ function Pc() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/Primary Care/noi.jpg' height={"500px"} width={"100%"} alt="error" />
+                    <img src='/Primary Care/noi.jpg'  width={"100%"} alt="error" className='pry'/>
                     <Carousel.Caption>
                         <div className='Pc'>
                             <h1>
