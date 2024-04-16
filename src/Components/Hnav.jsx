@@ -52,7 +52,7 @@ class Hnav extends Component {
                         </div>
                         <nav>
 
-                            <a href="#" className="brand-left">
+                            <a href="/" className="brand-left">
                              <img src="/logoo.png" alt="logo" width={"150px"} height={"50px"} />
                             </a>
 
