@@ -2,6 +2,7 @@ import React from 'react'
 import Hnav from '../Components/Hnav'
 import Mfooter from '../Components/Mfooter'
 import "../styles/Footer.css";
+import { Link } from 'react-router-dom';
 
 function Sexten() {
     return (
@@ -13,9 +14,9 @@ function Sexten() {
                         <span></span>
                         <h4>Our Services Include</h4>
                     </div>
-                    <div className="blog-info">
-                        
-                        <a href="/">BACK</a>
+
+                    <div className='blog-info'>
+                        <Link className='text-black bg-[#55BA53] px-3 py-2 rounded-md w-[100px] absolute right-2' to={"/"}>BACK</Link>
                     </div>
                     <div className="blog-card">
                         <div className="card">

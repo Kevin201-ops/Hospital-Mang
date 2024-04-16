@@ -60,15 +60,15 @@
 
 
 .showcaser .navbar-toppest {
-    width: 100%;
+    width: 100vw;
     display: flex;
     /* padding: 0 50px; */
     margin: 0 auto;
     justify-content: space-between;
     align-items: center;
     background-color: #0a2940;
-    top: 0;
-    left: 0;
+    
+
     /* position: fixed; */
 }
 
@@ -376,12 +376,12 @@ nav {
         font-size: 22px;
     }
 
-    .showcaser .lefti li a{
+    .showcaser .lefti li a {
         font-size: 13px;
         padding: 0;
-        display:none;
+        display: none;
         /* margin-right: 50px; */
-        
+
     }
 }
 

@@ -9,6 +9,7 @@ import Workwith from "../Components/Workwith";
 import Partners from "../Components/Sponsors";
 import Footer from "../Components/News";
 import Mfooter from "../Components/Mfooter";
+import { Link } from "react-router-dom";
 
 
 function Home() {
@@ -109,17 +110,18 @@ function Home() {
           </div>
         </div>
       </section>
-      <Video></Video>
-      <section id="blogg" className="py-3">
+      {/* <Video/> */}
+      <section id="blogg" className="">
         <div className="wrapper">
           <div className="header">
             <span></span>
             <h4>Our Services</h4>
           </div>
-          <div className="blog-info">
 
-            <a href="/Sexten">All Services!</a>
+          <div className='blog-info'>
+            <Link className="text-black bg-[#55BA53] px-3 py-2 rounded-md w-[100px] absolute right-2" to={"/Sexten"}>All Services!</Link>
           </div>
+
           <div className="blog-card">
             <div className="card">
               <div className="card-header">
@@ -175,12 +177,12 @@ function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </section >
       <Mang></Mang>
       <Footer></Footer>
-      <Workwith></Workwith>
-      <Partners></Partners>
-      <Mfooter></Mfooter>
+      <Workwith />
+      <Partners />
+      <Mfooter />
     </>
 
 
