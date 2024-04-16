@@ -7,7 +7,7 @@ function CarouselFadeExample() {
     return (
         <>
             
-            <Carousel fade className='lok'>
+            <Carousel fade className='lok '>
                 <Carousel.Item >
                     <img className="hot" src='/intro/intro1.jpg' width={"100%"} alt="error" />
                     <Carousel.Caption>

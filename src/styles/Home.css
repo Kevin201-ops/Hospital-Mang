@@ -55,6 +55,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    
 }
 
 .items {
@@ -245,6 +246,11 @@
 
 .pil h2 {
     background-color: white;
+}
+@media only screen and (min-device-width: 100vw) and (max-device-width: 100vw) and (-webkit-device-pixel-ratio: 2) {
+    .items{
+        display: flex;
+    }
 }
 
 @media screen and (max-width:769px) {
