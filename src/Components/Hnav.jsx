@@ -1,5 +1,5 @@
 import "../styles/Hnav.css"
-import { Component,  } from "react"
+import { Component, } from "react"
 import Formcomp from "./Formcomp";
 
 
@@ -31,10 +31,10 @@ class Hnav extends Component {
                         <div className="navbar-toppest">
                             <ul className="lefti">
                                 <li>
-                                    <a href="#">Accra, Ghana</a>
+                                    <a href="">Accra, Ghana</a>
                                 </li>
                                 <li>
-                                    <a href="#">
+                                    <a href="">
                                         <i className=" fa-solid fa-business-time"></i>Mon - Sun: 8:00am - 10:00pm
                                     </a>
                                 </li>
@@ -53,14 +53,14 @@ class Hnav extends Component {
                         <nav>
 
                             <a href="/" className="brand-left">
-                             <img src="/logoo.png" alt="logo" width={"150px"} height={"50px"} />
+                                <img src="/logoo.png" alt="logo" width={"150px"} height={"50px"} />
                             </a>
 
                             <div>
                                 <ul id="navbar" className=
                                     {this.state.clicked ? "#navbar active" : "#navbar"}>
                                     <li><a className="active" href="/">Home</a></li>
-                                    <li className="services-drop"><a href="#">About Us <span className="ser-arrow-down">&#x25BC;</span>
+                                    <li className="services-drop"><a href="">About Us <span className="ser-arrow-down">&#x25BC;</span>
                                     </a>
                                         <ul className="dropdown-contentt" id="services-drop">
                                             <li><a href="/Wwa">Who We Are</a></li>
@@ -68,7 +68,7 @@ class Hnav extends Component {
                                             <li><a href="/Faq">FAQ</a></li>
                                         </ul>
                                     </li>
-                                    <li class="services-drop"><a href="#">Services <span class="ser-arrow-down">&#x25BC;</span>
+                                    <li class="services-drop"><a href="">Services <span class="ser-arrow-down">&#x25BC;</span>
                                     </a>
                                         <ul class="dropdown-content" id="services-drop">
                                             <li><a href="/Pc">Primary Care</a></li>
@@ -85,7 +85,7 @@ class Hnav extends Component {
                                     <li>
                                         <a href="/Contact">Contact</a>
                                     </li>
-                                    <li class="services-drop"><a href="#">Affiliated Parterners <span class="ser-arrow-down">&#x25BC;</span>
+                                    <li class="services-drop"><a href="">Affiliated Parterners <span class="ser-arrow-down">&#x25BC;</span>
                                     </a>
                                         <ul class="dropdown-contentz" id="services-drop">
 
