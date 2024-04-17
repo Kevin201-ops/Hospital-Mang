@@ -1,49 +1,49 @@
-#blog {
+#blogzzz {
     background: #505b64;
     margin-top: 90px;
     /* margin: 40px; */
 }
 
-#blog .wrapper {
-    margin: 50px;
+#blog .wrapperzzz {
+    margin: 20px;
 }
 
-#blog .wrapper .header {
+#blogzzz .wrapperzzz .header {
     display: flex;
     align-items: center;
     margin-bottom: 20px;
 }
 
-#blog .wrapper .header span {
+#blogzzz .wrapperzzz .header span {
     height: 1px;
     width: 4%;
     background: #95A2BB;
 }
 
-#blog .wrapper .header h4 {
+#blogzzz .wrapperzzz .header h4 {
     color: #95A2BB;
     padding-left: 15px;
     text-transform: uppercase;
 }
 
-#blog .wrapper .blog-info {
+#blogzzz .wrapperzzz .blog-infozzz {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin: 20px;
 }
 
-#blog .wrapper .blog-info h2 {
+#blogzzz .wrapperzzz .blog-infozzz h2 {
     font-size: 40px;
     color: #95A2BB;
     font-weight: 600;
 }
 
-#blog .wrapper .blog-info h2 span {
+#blogzzz .wrapperzzz .blog-infozzz h2 span {
     font-weight: 500;
 }
 
-#blog .wrapper .blog-info a {
+#blogzzz .wrapperzzz .blog-infozzz a {
     text-decoration: none;
     padding: 10px 20px;
     background: #3ac045;
@@ -56,19 +56,19 @@
     transition: all 0.5s ease;
 }
 
-#blog .wrapper .blog-info a:hover {
+#blogzzz .wrapperzzz .blog-infozzz a:hover {
     background: none;
     color: #95A2BB;
 }
 
-#blog .wrapper .blog-card {
+#blogzzz .wrapperzzz .blog-card {
     display: flex;
     margin: 10px;
     justify-content: space-around;
     flex-wrap: wrap-reverse;
 }
 
-#blog .wrapper .card {
+#blogzzz .wrapperzzz .card {
     margin: 10px 5px;
     background-color: #cfcfcf;
     border-radius: 50px;
@@ -79,11 +79,11 @@
     transition: all 0.5s ease;
 }
 
-#blog .wrapper .card:hover {
+#blogzzz .wrapperzzz .card:hover {
     transform: scale(1.05);
 }
 
-#blog .wrapper .card .card-header img {
+#blogzzz .wrapperzzz .card .card-header img {
     width: 100%;
     height: 200px;
     object-fit: cover;
@@ -92,7 +92,7 @@
     margin-bottom: 10px;
 }
 
-#blog .wrapper .card .card-body .tag {
+#blogzzz .wrapperzzz .card .card-body .tag {
     background: #ccc;
     border-radius: 50px;
     font-size: 12px;
@@ -103,19 +103,19 @@
     cursor: pointer;
 }
 
-#blog .wrapper .card .card-body .tag-yellow {
+#blogzzz .wrapperzzz .card .card-body .tag-yellow {
     background-color: gray;
 }
 
-#blog .wrapper .card .card-body .tag-yellow {
+#blogzzz .wrapperzzz .card .card-body .tag-yellow {
     background-color: purple;
 }
 
-#blog .wrapper .card .card-body .tag-yellow {
+#blogzzz .wrapperzzz .card .card-body .tag-yellow {
     background-color: purple;
 }
 
-#blog .wrapper .card .card-body h4 {
+#blogzzz .wrapperzzz .card .card-body h4 {
     margin: 10px 30px;
     font-weight: 600;
     font-size: 24px;
@@ -133,12 +133,12 @@
     padding: 5px 0;
 }
 
-#blog .wrapper .card .card-body .footer small {
+#blogzzz .wrapperzzz .card .card-body .footer small {
     color: #1A1B1E;
     font-weight: 600;
 }
 
-#blog .wrapper .card .card-body .footer a {
+#blogzzz .wrapperzzz .card .card-body .footer a {
     padding: 5px 10px;
     background: #55BA53;
     border-radius: 4px;
@@ -150,22 +150,22 @@
 } */
 
 @media screen and (max-width:769px) {
-    #blog .wrapper .header {
+    #blogzzz .wrapperzzz .header {
         margin-left: -70px;
         margin-top: -10px;
     }
 
-    #blog .wrapper .blog-info {
+    #blogzzz .wrapperzzz .blog-infozzz {
         display: block;
 
         /* font-size: 20px; */
     }
 
-    #blog .wrapper .blog-info a {
+    #blogzzz .wrapperzzz .blog-infozzz a {
         margin-left: 130px;
     }
 
-    #blog .wrapper .blog-info h2 {
+    #blogzzz .wrapperzzz .blog-infozzz h2 {
         margin-bottom: 20px;
     }
 }

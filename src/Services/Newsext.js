@@ -6,13 +6,13 @@ function Insights() {
         <>
             <Hnav></Hnav>
             <div>
-                <section id="blog" className="py-3">
-                    <div className="wrapper">
+                <section id="blogzzz" className="py-3">
+                    <div className="wrapperzzz">
                         <div className="header">
                             <span></span>
                             <h4>News blog</h4>
                         </div>
-                        <div className="blog-info">
+                        <div className="blog-infozzz">
                             <h2><span className="text-secondary">Latest News</span></h2>
                             <a href="/">BACK</a>
                         </div>
