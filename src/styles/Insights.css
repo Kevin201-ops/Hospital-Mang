@@ -1,49 +1,49 @@
-#blogzzz {
+#blog {
     background: #505b64;
     margin-top: 90px;
     /* margin: 40px; */
 }
 
-#blogzzz .wrapperzzz {
+#blog .wrapper {
     margin: 20px;
 }
 
-#blogzzz .wrapperzzz .header {
+#blog .wrapper .header {
     display: flex;
     align-items: center;
     margin-bottom: 20px;
 }
 
-#blogzzz .wrapperzzz .header span {
+#blog .wrapper .header span {
     height: 1px;
     width: 4%;
     background: #95A2BB;
 }
 
-#blogzzz .wrapperzzz .header h4 {
+#blog .wrapper .header h4 {
     color: #95A2BB;
     padding-left: 15px;
     text-transform: uppercase;
 }
 
-#blogzzz .wrapperzzz .blog-infozzz {
+#blog .wrapper .blog-info {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin: 20px;
 }
 
-#blogzzz .wrapperzzz .blog-infozzz h2 {
+#blog .wrapper .blog-info h2 {
     font-size: 40px;
     color: #95A2BB;
     font-weight: 600;
 }
 
-#blogzzz .wrapperzzz .blog-infozzz h2 span {
+#blog .wrapper .blog-info h2 span {
     font-weight: 500;
 }
 
-#blogzzz .wrapperzzz .blog-infozzz a {
+#blog .wrapper .blog-info a {
     text-decoration: none;
     padding: 10px 20px;
     background: #3ac045;
@@ -56,19 +56,19 @@
     transition: all 0.5s ease;
 }
 
-#blogzzz .wrapperzzz .blog-infozzz a:hover {
+#blog .wrapper .blog-info a:hover {
     background: none;
     color: #95A2BB;
 }
 
-#blogzzz .wrapperzzz .blog-card {
+#blog .wrapper .blog-card {
     display: flex;
     margin: 10px;
     justify-content: space-around;
     flex-wrap: wrap-reverse;
 }
 
-#blogzzz .wrapperzzz .card {
+#blog .wrapper .card {
     margin: 10px 5px;
     background-color: #cfcfcf;
     border-radius: 50px;
@@ -79,11 +79,11 @@
     transition: all 0.5s ease;
 }
 
-#blogzzz .wrapperzzz .card:hover {
+#blog .wrapper .card:hover {
     transform: scale(1.05);
 }
 
-#blogzzz .wrapperzzz .card .card-header img {
+#blog .wrapper .card .card-header img {
     width: 100%;
     height: 200px;
     object-fit: cover;
@@ -92,7 +92,7 @@
     margin-bottom: 10px;
 }
 
-#blogzzz .wrapperzzz .card .card-body .tag {
+#blog .wrapper .card .card-body .tag {
     background: #ccc;
     border-radius: 50px;
     font-size: 12px;
@@ -103,19 +103,19 @@
     cursor: pointer;
 }
 
-#blogzzz .wrapperzzz .card .card-body .tag-yellow {
+#blog .wrapper .card .card-body .tag-yellow {
     background-color: gray;
 }
 
-#blogzzz .wrapperzzz .card .card-body .tag-yellow {
+#blog .wrapper .card .card-body .tag-yellow {
     background-color: purple;
 }
 
-#blogzzz .wrapperzzz .card .card-body .tag-yellow {
+#blog .wrapper .card .card-body .tag-yellow {
     background-color: purple;
 }
 
-#blogzzz .wrapperzzz .card .card-body h4 {
+#blog .wrapper .card .card-body h4 {
     margin: 10px 30px;
     font-weight: 600;
     font-size: 24px;
@@ -124,7 +124,7 @@
     color: #0A2940;
 }
 
-#blogzzz .wrapperzzz .card .card-body .footer {
+#blog .wrapper .card .card-body .footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -133,12 +133,12 @@
     padding: 5px 0;
 }
 
-#blogzzz .wrapperzzz .card .card-body .footer small {
+#blog .wrapper .card .card-body .footer small {
     color: #1A1B1E;
     font-weight: 600;
 }
 
-#blogzzz .wrapperzzz .card .card-body .footer a {
+#blog .wrapper .card .card-body .footer a {
     padding: 5px 10px;
     background: #55BA53;
     border-radius: 4px;
@@ -150,22 +150,22 @@
 } */
 
 @media screen and (max-width:769px) {
-    #blogzzz .wrapperzzz .header {
+    #blog .wrapper .header {
         margin-left: -70px;
         margin-top: -10px;
     }
 
-    #blogzzz .wrapperzzz .blog-infozzz {
+    #blog .wrapper .blog-info {
         display: block;
 
         /* font-size: 20px; */
     }
 
-    #blogzzz .wrapperzzz .blog-infozzz a {
+    #blog .wrapper .blog-info a {
         margin-left: 130px;
     }
 
-    #blogzzz .wrapperzzz .blog-infozzz h2 {
+    #blog .wrapper .blog-info h2 {
         margin-bottom: 20px;
     }
 }
