@@ -63,8 +63,8 @@
 
 #blog .wrapper .blog-card {
     display: flex;
-    margin: 10px;
-    justify-content: space-around;
+    margin: 20px;
+    justify-content: space-evenly;
     flex-wrap: wrap;
 }
 
