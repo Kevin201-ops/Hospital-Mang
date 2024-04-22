@@ -60,8 +60,8 @@ class Hnav extends Component {
                                 <ul id="navbar" className=
                                     {this.state.clicked ? "#navbar active" : "#navbar"}>
                                     <li><a className="active" href="/">Home</a></li>
-                                    <li className="services-drop">About Us <span className="ser-arrow-down">&#x25BC;</span>
-                                    
+                                    <li className="services-drop"><a href="">About Us <span className="ser-arrow-down">&#x25BC;</span>
+                                    </a>
                                         <ul className="dropdown-contentt" id="services-drop">
                                             <li><a href="/Wwa">Who We Are</a></li>
 
