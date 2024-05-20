@@ -17,10 +17,11 @@ function Home() {
     <>
       <Hnav />
       <IndividualIntervalsExample />
-      <div className="tot">
-        <h1>Our Main Objectives</h1>
-      </div>
+      
       <section id="services" class="bg-light py-3">
+        <div className="tot">
+          <h1>Our Main Objectives</h1>
+        </div>
         <div className="services-wrapper">
           <div className="items">
 
