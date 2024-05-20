@@ -265,13 +265,5 @@
         padding: 10px;
     }
 
-    .items .item1{
-        width: 70px;
-    }
 
-    .items .item1 h3 {
-        /* line-height: 1; */
-        font-size: 25px;
-        /* color: #F4F6F7; */
-    }
 }
