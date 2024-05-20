@@ -253,63 +253,7 @@
     }
 }
 
-@media screen and (max-width:769px) {
-    .items {
-        display: block;
-        /* padding-bottom: 40px; */
-        margin: 10px;
-        margin-top: 5px;
-        padding: 10px;
 
-
-
-    }
-
-    .items .item1 h3 {
-        /* line-height: 1; */
-        font-size: 25px;
-        color: #F4F6F7;
-    }
-
-    .items .item2 h3 {
-        /* line-height: 2; */
-        font-size: 25px;
-        color: #F4F6F7;
-    }
-
-    .items .item3 h3 {
-        /* line-height: 1; */
-        font-size: 25px;
-        color: #F4F6F7;
-    }
-
-    .items .item4 h3 {
-        /* line-height: 1; */
-        font-size: 25px;
-        color: #F4F6F7;
-    }
-
-    .left-sidee div img {
-        width: 100%;
-        margin-top: 40px;
-    }
-
-    #sect {
-        display: block;
-        margin: 10px;
-        margin-top: 5px;
-        /* justify-content: center; */
-    }
-
-    .right-sidee .cardss {
-        margin: 10px;
-        margin-top: 5px;
-        margin-left: 70px;
-
-    }
-
-
-}
 
 /* For iPhone XR, 11  */
 @media only screen and (device-width: 414px) and (device-height: 896px) {
