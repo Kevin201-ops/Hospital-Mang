@@ -275,4 +275,37 @@
 
 
     }
+
+    .items .item2 h3 {
+        font-family: 'Gill Sans',
+            'Gill Sans MT',
+            Calibri,
+            'Trebuchet MS',
+            sans-serif;
+
+
+
+    }
+
+    .items .item3 h3 {
+        font-family: 'Gill Sans',
+            'Gill Sans MT',
+            Calibri,
+            'Trebuchet MS',
+            sans-serif;
+
+
+
+    }
+
+    .items .item4 h3 {
+        font-family: 'Gill Sans',
+            'Gill Sans MT',
+            Calibri,
+            'Trebuchet MS',
+            sans-serif;
+
+
+
+    }
 }
