@@ -40,7 +40,7 @@ function Home() {
 
             <div className="item3">
               <h3>
-                Working together to find new and better ways to craze
+                Working together to find new and better ways to care
               </h3>
             </div>
 
