@@ -110,7 +110,7 @@ function Home() {
           </div>
         </div>
       </section>
-      <Video/>
+      {/* <Video/> */}
       <section id="blogg" className="">
         <div className="wrapper">
           <div className="header">
@@ -180,7 +180,7 @@ function Home() {
       </section >
       <Mang></Mang>
       <Footer></Footer>
-      <Workwith />
+      {/* <Workwith /> */}
       <Partners />
       <Mfooter />
     </>
