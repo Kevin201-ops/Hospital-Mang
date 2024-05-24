@@ -316,4 +316,9 @@
         font-size: 30px;
         font-weight: 500;
     }
+
+    .left-sidee div img {
+        width: 100%;
+        margin-top: 40px;
+    }
 }
