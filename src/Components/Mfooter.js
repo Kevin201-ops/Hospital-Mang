@@ -51,8 +51,7 @@ function Mfooter() {
                     <i className="fab fa-instagram "></i>
                 </div>
                 <div className='cprit'>
-                    <p>&copy; 2024 Copyright Medicon <br></br>
-                    All Rights Reserved.</p>
+                    <p>&copy; Medicom 2024</p>
                 </div>
             </div>
 
