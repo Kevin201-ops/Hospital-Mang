@@ -71,7 +71,7 @@ li {
 
 }
 
-.legon{
+.legon {
     height: 65px;
     width: 90%;
 }
@@ -175,14 +175,19 @@ li {
     height: 100px;
 }
 
-@media screen and (max-width:769px) {
+/* For iPhone XR, 11  */
+@media screen and (min-width: 400px) and (max-width: 900px) {
     .row {
         display: block;
         /* margin-left: 100px; */
         /* justify-items: center; */
     }
 
-    .w3l-features .call-grids-w3{
+    .w3l-features .call-grids-w3 {
         margin-left: 20px;
+    }
+
+    .Micons {
+        margin-left: 1px;
     }
 }
