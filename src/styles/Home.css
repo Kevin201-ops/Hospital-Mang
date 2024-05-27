@@ -341,7 +341,7 @@
 
 
     .cardss .card-groupp {
-        display: flex;
+        display: block;
         margin-bottom: 12px;
         /* padding: 10px; */
         flex-wrap:nowrap;
