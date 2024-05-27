@@ -346,12 +346,10 @@
         /* margin-bottom: 12px; */
         /* padding: 10px; */
         /* flex-wrap:nowrap; */
+        padding: 1.1em 1.1em 50em 1.1em;
     }
 
-    .right-sidee .cardss {
-        display: flex;
-        flex-direction: row;
-    }
+    
 
 
 
