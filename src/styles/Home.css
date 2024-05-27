@@ -257,7 +257,7 @@
 
 
 /* For iPhone XR, 11  */
-@media only screen and (max-width: 414px) and (min-width: 896px) {
+@media (max-width: 414px) and (min-width: 896px) {
     .items {
         display: block;
         /* margin: 10px; */
