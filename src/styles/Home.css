@@ -349,7 +349,7 @@
     }
 
     .right-sidee .cardss {
-        display: block;
+        display: flex;
         flex-direction: row;
     }
 
