@@ -339,8 +339,15 @@
 
     }
 
-    .right-sidee .cardss {
+    /* .right-sidee .cardss {
         margin-left: 20px;
+    } */
+
+    .cardss .card-groupp {
+        display: flex;
+        margin-bottom: 12px;
+        /* padding: 10px; */
+        flex-wrap:nowrap;
     }
 
 
