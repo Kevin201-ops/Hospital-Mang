@@ -349,10 +349,13 @@
 
     }
 
-    .cardss .card-groupp .cardd {
-        padding: 0em 0em 0em 0em;
-
+    .cardss .card-groupp .cardd .card-contentt .card-titlee {
+        margin: 10em 1em 1em 10em;
+        padding: 0px 0px 0px 0px;
+        font-family: serif;
     }
+
+
 
 
 
