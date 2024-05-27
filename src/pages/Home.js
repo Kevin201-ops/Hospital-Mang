@@ -111,7 +111,7 @@ function Home() {
           </div>
         </div>
       </section>
-      {/* <Video/> */}
+      <Video/>
       <section id="blogg" className="">
         <div className="wrapper">
           <div className="header">
