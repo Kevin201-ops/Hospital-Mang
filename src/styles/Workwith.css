@@ -113,7 +113,7 @@ li {
 .w3l-features .call-grids-w3 {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 10px;
+    grid-gap: 5px;
 }
 
 .w3l-features .grids-1 p {
