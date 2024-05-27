@@ -346,10 +346,16 @@
         /* margin-bottom: 12px; */
         /* padding: 10px; */
         /* flex-wrap:nowrap; */
-        padding: 1.1em 1.1em 50em 1.1em;
+
     }
 
-    
+    .cardss .card-groupp .cardd {
+        
+        padding: 1.1em 1.1em 10em 1.1em;
+       
+    }
+
+
 
 
 
