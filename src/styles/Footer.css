@@ -15,6 +15,7 @@
     display: flex;
     align-items: center;
     margin-bottom: 20px;
+    margin-top: 2px;
 }
 
 
@@ -23,6 +24,7 @@
     height: 1px;
     width: 4%;
     background: #95A2BB;
+   
 }
 
 
