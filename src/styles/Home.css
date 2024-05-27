@@ -317,12 +317,6 @@
         font-weight: 500;
     }
 
-    .left-sidee div img {
-        width: 60%;
-        margin-top: 40px;
-        margin-left: 10px;
-    }
-
     #sect {
         display: block;
         /* margin: 10px; */
@@ -333,7 +327,13 @@
     .left-sidee {
         height: 200px;
         width: 150px;
-    
 
+
+    }
+
+    .left-sidee div img {
+        width: 100%;
+        margin-top: 40px;
+        margin-left: 10px;
     }
 }
