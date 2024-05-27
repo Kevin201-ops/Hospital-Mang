@@ -13,8 +13,8 @@ function Footer() {
               <h4>News blog</h4>
             </div>
             <div className="blog-info">
-              <h2>Read Our Latest News</h2>
-              <Link className="text-black bg-[#55BA53] px-3 py-2 rounded-md w-[100px] absolute right-2" to={"/Insights"}>view all here!</Link>
+              <h2>Latest News</h2>
+              <Link className="text-black bg-[#55BA53] px-3 py-2 rounded-md w-[100px] absolute right-2" to={"/Sexten"}>All Services!</Link>
 
             </div>
             <div className="blog-card">
@@ -78,7 +78,7 @@ function Footer() {
           </div>
         </section>
       </div>
-      
+
 
 
     </>
