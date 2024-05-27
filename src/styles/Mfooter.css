@@ -114,7 +114,11 @@
 
     .down-footer {
         display: flex;
-        flex-wrap: wrap;
+
+    }
+
+    .icon-footer {
+        display: flex;
     }
 
     .down-footer p {
