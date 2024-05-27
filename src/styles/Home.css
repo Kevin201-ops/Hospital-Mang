@@ -338,4 +338,8 @@
         margin-right: 10px;
 
     }
+
+    .right-sidee .cardss {
+        justify-content: center;
+    }
 }
