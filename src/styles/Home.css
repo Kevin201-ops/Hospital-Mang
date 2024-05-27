@@ -342,6 +342,7 @@
 
     .cardss .card-groupp {
         display: block;
+        margin-left: 30px;
         /* margin-bottom: 12px; */
         /* padding: 10px; */
         /* flex-wrap:nowrap; */
