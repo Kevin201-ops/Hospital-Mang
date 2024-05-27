@@ -15,7 +15,7 @@
     display: flex;
     align-items: center;
     margin-bottom: 20px;
-   
+
 }
 
 
@@ -24,7 +24,7 @@
     height: 1px;
     width: 4%;
     background: #95A2BB;
-   
+
 }
 
 
@@ -75,7 +75,7 @@
     transition: all 0.5s ease;
     /* margin-left: 1000px; */
     /* margin-bottom: 20px; */
-   
+
 }
 
 
@@ -250,11 +250,16 @@
     background: #3ac045;
 
 }
+
 /* For iPhone XR, 11  */
 @media screen and (min-width: 400px) and (max-width: 900px) {
     #blogg .wrapper .header {
         margin-left: -70px;
         margin-top: -10px;
+    }
+
+    #blogg .wrapper .blog-card {
+        margin-top: 10px;
     }
 
     /* #blogg .wrapper .blog-info {
