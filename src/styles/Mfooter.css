@@ -114,6 +114,7 @@
 
     .down-footer {
         display: flex;
+        padding: 0;
 
     }
 
@@ -123,6 +124,7 @@
 
     .down-footer p {
         display: flex;
+        padding: 0;
     }
 
 
