@@ -9,10 +9,10 @@
     border-top: #0a2940 solid;
     background-color: rgb(71, 69, 69);
     padding-left: 80px;
-    
+
     /* display: flex;
     flex-direction: row; */
-    
+
 }
 
 .down-footer {
@@ -93,10 +93,11 @@
 
 
 
-@media screen and (max-width:769px) {
+/* For iPhone XR, 11  */
+@media screen and (min-width: 400px) and (max-width: 900px) {
     .top-footer {
         display: block;
-        margin-left: 50px;
+        /* margin-left: 50px; */
     }
 
     .top {
@@ -107,11 +108,11 @@
         margin-bottom: 20px;
     }
 
-    .semi-middle{
+    .semi-middle {
         margin-bottom: 20px;
     }
 
-    .down-footer{
+    .down-footer {
         display: block;
     }
 
