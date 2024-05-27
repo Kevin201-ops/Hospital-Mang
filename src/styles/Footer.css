@@ -247,17 +247,17 @@
     background: #3ac045;
 
 }
-
-@media screen and (max-width:769px) {
+/* For iPhone XR, 11  */
+@media screen and (min-width: 400px) and (max-width: 900px) {
     #blogg .wrapper .header {
         margin-left: -70px;
         margin-top: -10px;
     }
 
-    #blogg .wrapper .blog-info {
+    /* #blogg .wrapper .blog-info {
         display: block;
 
-        /* font-size: 20px; */
+        
     }
 
     #blogg .wrapper .blog-info a {
@@ -266,5 +266,5 @@
 
     #blogg .wrapper .blog-info h2{
         margin-bottom: 20px;
-    }
+    } */
 }
