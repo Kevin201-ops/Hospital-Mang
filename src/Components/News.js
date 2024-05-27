@@ -14,8 +14,9 @@ function Footer() {
             </div>
             <div className="blog-info">
               <h2>Read Our Latest News</h2>
+              <Link className="text-black bg-[#55BA53] px-3 py-2 rounded-md w-[100px] absolute right-2" to={"/Insights"}>view all here!</Link>
+
             </div>
-            <Link className="text-black bg-[#55BA53] px-3 py-2 rounded-md w-[100px] absolute right-2" to={"/Insights"}>view all here!</Link>
             <div className="blog-card">
               <div className="card">
                 <div className="card-header">
