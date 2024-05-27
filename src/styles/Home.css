@@ -339,20 +339,12 @@
 
     }
 
-    /* .right-sidee .cardss {
-        margin-left: 20px;
-    } */
 
     .cardss .card-groupp {
-        margin-left: 30px;
-    }
-
-
-
-    .cardss .card-groupp .cardd .card-contentt .card-titlee {
-        margin: 10px;
-        /* padding: 0px 0px 0px 0px;
-        font-family: serif; */
+        display: flex;
+        margin-bottom: 12px;
+        /* padding: 10px; */
+        flex-wrap:wrap-reverse;
     }
 
 
