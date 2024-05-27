@@ -157,12 +157,15 @@
     }
 
     #blog .wrapper .blog-card {
-        
+
         margin: 10px;
         margin-top: 10px;
-        
+
     }
 
+    #blog .wrapper .blog-info h2{
+        margin-bottom: 10px;
+    }
     /* #blog .wrapper .blog-info {
         display: block;
 

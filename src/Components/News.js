@@ -66,7 +66,7 @@ function Footer() {
                 </div>
                 <div className="card-body">
                   {/* <span className="tag tag-yellow">HealthCare</span> */}
-                  <h4>Environmental <br /> Pollutions</h4>
+                  <h4>Pollutions<br /> in the environment </h4>
                   <div className="footer">
                     <small>January 3, 2022 /5 comments</small>
                     <small>Read  more</small>
