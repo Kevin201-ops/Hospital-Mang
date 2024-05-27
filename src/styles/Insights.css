@@ -163,7 +163,7 @@
 
     }
 
-    /* #blog .wrapper .blog-info h2 {
-        margin-bottom: 20px;
-    }  */
+    #blog .wrapper .blog-info h2 {
+        margin-right: 20px;
+    }
 }

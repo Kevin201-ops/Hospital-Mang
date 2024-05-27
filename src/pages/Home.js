@@ -17,7 +17,7 @@ function Home() {
     <>
       <Hnav />
       <IndividualIntervalsExample />
-      
+
       <section id="services" class="bg-light py-3">
         <div className="tot">
           <h1>Our Main Objectives</h1>
@@ -179,9 +179,9 @@ function Home() {
           </div>
         </div>
       </section >
-      <Mang></Mang>
-      <Footer></Footer>
-      {/* <Workwith /> */}
+      <Mang />
+      <Footer />
+      <Workwith />
       <Partners />
       <Mfooter />
     </>
