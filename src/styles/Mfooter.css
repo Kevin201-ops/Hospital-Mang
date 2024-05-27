@@ -114,6 +114,7 @@
 
     .down-footer {
         display: flex;
+        flex-wrap: wrap;
     }
 
     .down-footer p {
