@@ -344,10 +344,7 @@
     } */
 
     .cardss .card-groupp {
-        display: flex;
-        margin-bottom: 12px;
-        /* padding: 10px; */
-        flex-wrap:wrap-reverse;
+        margin-left: 30px;
     }
 
 
