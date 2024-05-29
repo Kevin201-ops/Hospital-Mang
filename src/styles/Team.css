@@ -231,10 +231,20 @@
 
     }
 
-    .sic img {
-        height: 200px;
-        width: 300px;
+
+
+    .sic {
+        height: 400px;
+        width: 400px;
         margin: 10px;
+        /* padding: 10px; */
+
+    }
+
+    .sic div img {
+        width: 100%;
+        margin-top: 40px;
+        margin-right: 10px;
 
     }
 }
