@@ -13,7 +13,7 @@ function CarouselFadeExample() {
                     <Carousel.Caption>
                         <div className='beg1'>
                             <h1>
-                                WELCOME TO MEDICOM
+                                Welcome To Medicom
                             </h1>
                             <h2>
                                 We provide good expertise to guide you
@@ -26,7 +26,7 @@ function CarouselFadeExample() {
                     <Carousel.Caption>
                         <div className='beg2'>
                             <h1>
-                                WELCOME TO MEDICOM
+                                Welcome To Medicom
                             </h1>
                             <h2>
                                 We provide Good health care services to achieve excellent results
@@ -39,7 +39,7 @@ function CarouselFadeExample() {
                     <Carousel.Caption>
                         <div className='beg3'>
                             <h1>
-                                Personal Assistance
+                                Welcome To Medicom
                             </h1>
                             <h2>
                                 We provide you with personal assistance to aid you

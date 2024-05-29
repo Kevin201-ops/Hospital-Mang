@@ -90,7 +90,7 @@
     width: auto;
     margin-left: -280px; */
     /* display: flex; */
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     animation: fadeIn 0.5s ease-in-out forwards;
     font-weight: 700;
 
