@@ -230,16 +230,16 @@
 
 
     }
-
+/* 
     .sic img {
         height: 300px;
         width: 400px;
         margin: 10px;
         margin-right: 10px;
 
-    }
+    } */
 
-    /* 
+    
         .sic {
         height: 400px;
         width: 400px;
@@ -251,7 +251,7 @@
         .sic div img {
         width: 100%;
         margin-top: 40px;
-        margin-right: 10px;
+        margin-right: 20px;
 
-    } */
+    }
 }
