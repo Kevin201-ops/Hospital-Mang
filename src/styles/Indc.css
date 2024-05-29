@@ -57,7 +57,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.hot{
+.hot {
     height: 540px;
     margin-top: -10px;
 }
@@ -73,7 +73,7 @@
     width: auto;
     margin-left: -280px; */
     /* display: flex; */
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     animation: fadeIn 0.5s ease-in-out forwards;
     font-weight: 700;
 
@@ -90,7 +90,7 @@
     width: auto;
     margin-left: -280px; */
     /* display: flex; */
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     animation: fadeIn 0.5s ease-in-out forwards;
     font-weight: 700;
 
@@ -107,7 +107,7 @@
     width: auto;
     margin-left: -280px; */
     /* display: flex; */
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     animation: fadeIn 0.5s ease-in-out forwards;
     font-weight: 700;
 
@@ -153,6 +153,7 @@
         transform: translateX(0);
     }
 }
+
 .lok {
     margin-top: 150px;
 }
@@ -179,8 +180,9 @@
         /* margin-bottom: 50px; */
         margin: 2px 0;
         margin-left: 10px;
-        font-size: 35px;
-        font-weight: 700;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+        font-weight: 800;
         /* max-width: 50px; */
     }
 
@@ -192,8 +194,9 @@
         /* margin-bottom: 50px; */
         margin: 2px 0;
         margin-left: 10px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 30px;
-        font-weight: 700;
+        font-weight: 800;
         /* max-width: 50px; */
     }
 
@@ -205,8 +208,9 @@
         /* margin-bottom: 50px; */
         margin: 2px 0;
         margin-left: 10px;
-        font-size: 35px;
-        font-weight: 700;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+        font-weight: 800;
         /* max-width: 50px; */
     }
 
