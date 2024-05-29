@@ -253,11 +253,16 @@
         width: 100%;
         margin-top: 10px;
         margin-right: 10px;
+        margin-left: 10px;
 
     }
 
     .sic img {
         margin-top: 20px;
+    }
+
+    .sic h4 {
+        margin-top: 10px;
     }
 
 }
