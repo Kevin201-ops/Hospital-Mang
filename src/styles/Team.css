@@ -241,8 +241,8 @@
 
     
         .sic {
-        height: 400px;
-        width: 400px;
+        height: 300px;
+        width: 300px;
         margin: 10px;
        
 
@@ -251,7 +251,7 @@
         .sic div img {
         width: 100%;
         margin-top: 40px;
-        margin-right: 20px;
+        margin-right: 10px;
 
     }
 }
