@@ -13,10 +13,10 @@ function CarouselFadeExample() {
                     <Carousel.Caption>
                         <div className='beg1'>
                             <h1>
-                                We Deliver Quality
+                                WELCOME TO MEDICOM
                             </h1>
                             <h2>
-                                We are boutique fire desgined for Private Equality, Family Offices and Growth Stage Companies seeking to maximize result
+                                We provide good expertise to guide you
                             </h2>
                         </div>
                     </Carousel.Caption>
@@ -26,10 +26,10 @@ function CarouselFadeExample() {
                     <Carousel.Caption>
                         <div className='beg2'>
                             <h1>
-                                Good Health Care Services
+                                WELCOME TO MEDICOM
                             </h1>
                             <h2>
-                                We are boutique fire desgined for Private Equality, Family Offices and Growth Stage Companies seeking to maximize result
+                                We provide Good health care services to achieve excellent results
                             </h2>
                         </div>
                     </Carousel.Caption>
@@ -42,7 +42,7 @@ function CarouselFadeExample() {
                                 Personal Assistance
                             </h1>
                             <h2>
-                                We are boutique fire desgined for Private Equality, Family Offices and Growth Stage Companies seeking to maximize result
+                                We provide you with personal assistance to aid you
                             </h2>
                         </div>
                     </Carousel.Caption>

@@ -157,7 +157,8 @@
     margin-top: 150px;
 }
 
-@media screen and (max-width:769px) {
+/* For iPhone XR, 11  */
+@media screen and (min-width: 400px) and (max-width: 900px) {
     .lok {
         display: block;
         width: 99%;
