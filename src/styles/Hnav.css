@@ -305,7 +305,7 @@ nav {
 /* For iPhone XR, 11  */
 @media screen and (min-width: 400px) and (max-width: 900px) {
     .brand-left {
-        margin-top: 5px;
+        margin-top: 10px;
     }
 
 
