@@ -67,7 +67,7 @@
     justify-content: space-between;
     align-items: center;
     background-color: #0a2940;
-    
+
 
     /* position: fixed; */
 }
@@ -302,7 +302,13 @@ nav {
 
 
 
-@media screen and (max-width:769px) {
+/* For iPhone XR, 11  */
+@media screen and (min-width: 400px) and (max-width: 900px) {
+    .brand-left {
+        margin-top: 5px;
+    }
+
+
     #navbar {
         display: flex;
         flex-direction: column;
