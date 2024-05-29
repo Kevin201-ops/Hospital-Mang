@@ -78,7 +78,7 @@
     /* background-color: #0a2940; */
     font-size: 30px;
     font-weight: 800;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     text-transform: uppercase;
 }
 
@@ -217,7 +217,11 @@
 
     .text-secondary {
         font-size: 20px;
-        margin-top: 10px;
+        /* margin-top: 10px; */
+    }
+
+    #teams h3 {
+        padding-bottom: 5px;
     }
 
     /* .lonk {
