@@ -8,7 +8,7 @@ function Mang() {
       <section id="teams" >
         <h3 className="text-center">we are there for you</h3>
         <h2 className="text-center">
-          <span className="text-secondary"> Meet Our Management Team</span>
+          <span className="text-secondary"> Meet Our Board Members</span>
           {/* <p>
             Here our are founding leaders
           </p> */}
