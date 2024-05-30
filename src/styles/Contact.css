@@ -199,10 +199,20 @@
     }
 
     .imageee {
-        
-        width: 10px;
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+        overflow: hidden;
         
     } 
+
+    .imageee iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 
     .right-sideer h2 {
         margin-top: 10px;
