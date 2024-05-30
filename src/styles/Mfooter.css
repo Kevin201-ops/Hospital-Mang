@@ -120,7 +120,7 @@
 
     .icon-footer {
         display: flex;
-        margin-left: 98px;
+        margin-left: -3px;
     }
 
     .down-footer p {

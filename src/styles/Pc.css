@@ -175,7 +175,8 @@
     height: 655px;
 }
 
-@media screen and (max-width:769px) {
+/* For iPhone XR, 11  */
+@media screen and (min-width: 400px) and (max-width: 900px) {
     .lil {
         display: block;
         width: 99%;
@@ -192,6 +193,7 @@
 
     .pri {
         height: 400px;
+        margin-right: 10px;
     }
 
     .pry {
