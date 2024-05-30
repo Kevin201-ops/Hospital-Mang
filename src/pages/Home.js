@@ -55,8 +55,8 @@ function Home() {
       </section>
 
       <section id="sect" >
-        <div className="left-sidee">
-          <div className="imageee">
+        <div className="left-sideeq">
+          <div className="imageeer">
             <img src="./1.jpg" alt="error" />
           </div>
         </div>

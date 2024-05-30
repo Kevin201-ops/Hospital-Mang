@@ -165,14 +165,14 @@
 
 }
 
-.left-sidee {
+.left-sideeq {
     height: 420px;
     width: 500px;
     padding: 10px;
 
 }
 
-.left-sidee div img {
+.left-sideeq div img {
     width: 100%;
     margin-top: 60px;
 }
@@ -324,7 +324,7 @@
         /* justify-content: center; */
     }
 
-    .left-sidee {
+    .left-sideeq {
         height: 400px;
         width: 400px;
         margin: 10px;
@@ -332,7 +332,7 @@
 
     }
 
-    .left-sidee div img {
+    .left-sideeq div img {
         width: 100%;
         margin-top: 40px;
         margin-right: 10px;
