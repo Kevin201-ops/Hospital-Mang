@@ -23,7 +23,7 @@
 
 
 
-.popup-inner input{
+.popup-inner input {
     width: 100%;
     padding: 10px;
     border-radius: 5px;
@@ -114,7 +114,7 @@
     margin-bottom: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
-    
+
 }
 
 .dept-box {
@@ -127,5 +127,9 @@
     .popup-inner {
         width: 80%;
         margin-top: 40px;
+    }
+
+    .button {
+        width: 40px;
     }
 }
