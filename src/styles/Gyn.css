@@ -160,12 +160,14 @@
 .yie {
     margin-top: 150px;
 }
+
 .gae {
     height: 655px;
 }
 
 .gna {
-    height: 655px;;
+    height: 655px;
+    ;
 }
 
 .gle {
@@ -179,8 +181,8 @@
         width: 99%;
         /* height: 90px; */
         margin-top: 80px;
-        margin-left: 0.7px;
-        margin-right: 0.7px;
+        margin-left: 3px;
+        margin-right: 3px;
 
     }
 
