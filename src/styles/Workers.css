@@ -121,13 +121,14 @@
     box-shadow: none;
 }
 
-@media screen and (max-width:769px) {
+/* For iPhone XR, 11  */
+@media screen and (min-width: 400px) and (max-width: 900px) {
     #sectionnnn {
         margin-top: -70px;
     }
 
     .card-wrapperrrr {
-        margin-left: 90px;
+        /* margin-left: 90px; */
 
     }
 
