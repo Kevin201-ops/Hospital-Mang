@@ -50,21 +50,19 @@ function Wwa() {
             </div>
             <div className='kontro'>
                 <div className='conteso'>
-                    <p>We are a group of four individuals behind this brilliant piece. We were tasked to build a hospital management system as part of our end of year activity.
-                        This contains most neccessary informations about a hospital of which you can access from the comfort of your homes without even having to set foot there.
-                        We hope you would like our little project
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                     </p>
                 </div>
             </div>
             <div className='konkq'>
                 <div className='qic'>
-                    <img src='pr5.jpg' alt='error' />
+                    <img src='/intro/intro1.jpg' alt='error' />
                 </div>
                 <div className='qic'>
-                    <img src='pr5.jpg' alt='error' />
+                    <img src='/intro/intro2.jpg' alt='error' />
                 </div>
                 <div className='qic'>
-                    <img src='pr5.jpg' alt='error' />
+                    <img src='/intro/intro3.jpg' alt='error' />
                 </div>
             </div>
             <Mfooter></Mfooter>
