@@ -220,10 +220,10 @@
     .contesk p {
         color: #333333;
         font-family: serif;
-        font-size: 15px;
+        font-size: 20px;
         /* font-weight: 500; */
         text-transform: capitalize;
-        line-height: 1.1em;
+        line-height: 2em;
         padding: 1px;
         /* margin-top: -90px; */
         /* margin-bottom: 28px; */
