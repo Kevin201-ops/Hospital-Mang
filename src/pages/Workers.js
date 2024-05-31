@@ -17,7 +17,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -27,7 +27,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -38,7 +38,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -49,7 +49,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -60,7 +60,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -71,7 +71,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -82,7 +82,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -93,7 +93,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -104,7 +104,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -115,7 +115,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -126,7 +126,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
@@ -137,7 +137,7 @@ const Workers = () => {
                             <img src="hoh.jpg" alt="card background" className="card-image" />
                             <img src="bmale.jpg" alt="pro image" className="pro-image" />
                             <h1>Dr.Jake Affum</h1>
-                            <p className="job.tittle">Lead Design</p>
+                            <p className="job.tittle">Doctor</p>
                             <p className="about">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                 Deserunt veritatis ducimus
