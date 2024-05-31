@@ -10,7 +10,7 @@ function Wwa() {
             <Hnav></Hnav>
             <Carousel fade className='pit'>
                 <Carousel.Item>
-                    <img src='./joke.jpg' width="100%" alt='error' className='rik' />
+                    <img src='/intro/intro1.jpg' width="100%" alt='error' className='rik' />
                     <Carousel.Caption>
                         <div className='wwa'>
                             <h1>
@@ -20,7 +20,7 @@ function Wwa() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='./kol.jpg' width={"100%"} alt='error' className='uil' />
+                    <img src='/intro/intro2.jpg' width={"100%"} alt='error' className='uil' />
                     <Carousel.Caption>
                         <div className='wwa'>
                             <h1>
@@ -30,7 +30,7 @@ function Wwa() {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img src='/joke.jpg' width={"100%"} alt='error' className='yil' />
+                    <img src='/intro/intro3.jpg' width={"100%"} alt='error' className='yil' />
                     <Carousel.Caption>
                         <div className='wwa'>
                             <h1>
@@ -56,13 +56,13 @@ function Wwa() {
             </div>
             <div className='konkq'>
                 <div className='qic'>
-                    <img src='/intro/intro1.jpg' alt='error' />
+                    <img src='./joke.jpg' alt='error' />
                 </div>
                 <div className='qic'>
-                    <img src='/intro/intro2.jpg' alt='error' />
+                    <img src='./kol.jpg' alt='error' />
                 </div>
                 <div className='qic'>
-                    <img src='/intro/intro3.jpg' alt='error' />
+                    <img src='/joke.jpg' alt='error' />
                 </div>
             </div>
             <Mfooter></Mfooter>
@@ -71,3 +71,5 @@ function Wwa() {
 }
 
 export default Wwa
+
+
