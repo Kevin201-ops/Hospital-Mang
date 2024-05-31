@@ -59,7 +59,7 @@ function Wwa() {
                     <img src='./joke.jpg' alt='error' />
                 </div>
                 <div className='qic'>
-                    <img src='./kol.jpg' alt='error' />
+                    <img src='./joke.jpg' alt='error' />
                 </div>
                 <div className='qic'>
                     <img src='/joke.jpg' alt='error' />
